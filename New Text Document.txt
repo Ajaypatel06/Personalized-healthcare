@@ -1,0 +1,14 @@
+In this project, I analyzed a real-world blood donor dataset to extract meaningful insights, predict blood donation patterns, and build a predictive model for donor classification. The dataset includes key features like Recency, Frequency, Monetary, Time, and Class, which were explored to understand the relationships between donor behavior and blood donation patterns.
+
+I utilized SQL to perform initial data exploration, filtering, and aggregation, enabling efficient data extraction and transformation. Subsequently, I applied machine learning techniques such as classification models (Logistic Regression, Decision Trees, Random Forest) to predict whether a donor would return to donate blood again. Exploratory data analysis (EDA) was conducted using Python (Pandas, Seaborn, Matplotlib) to visualize trends and distributions in donor behavior.
+
+The project highlights how data-driven approaches can be used to predict donor retention, improve blood donation drives, and support healthcare initiatives.
+
+Key Tools & Technologies:
+
+SQL: Data extraction, filtering, aggregation
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Machine Learning Models: Logistic Regression, Random Forest, Decision Trees
+Evaluation Metrics: Accuracy, Precision, Recall, F1-Score
+Visualization: Distribution plots, Correlation Heatmaps, Feature Importance Graphs
